@@ -293,7 +293,13 @@
         font-size: 17px;
     }
 
-    
+    footer .linha1{
+        flex-direction: column;
+    }
 
+    footer .endereço{
+        width: 95%;
+        margin-bottom: 20px;
+    }
 
 }
